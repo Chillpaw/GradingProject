@@ -1,0 +1,14 @@
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\bin\Debug\net7.0\StudentGrading.exe
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\bin\Debug\net7.0\StudentGrading.deps.json
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\bin\Debug\net7.0\StudentGrading.runtimeconfig.json
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\bin\Debug\net7.0\StudentGrading.dll
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\bin\Debug\net7.0\StudentGrading.pdb
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\StudentGrading.AssemblyInfoInputs.cache
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\StudentGrading.AssemblyInfo.cs
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\StudentGrading.csproj.CoreCompileInputs.cache
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\StudentGrading.dll
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\refint\StudentGrading.dll
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\StudentGrading.pdb
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\StudentGrading.genruntimeconfig.cache
+C:\Users\jacob\OneDrive\Programming\CsharpProjects\StudentGrading\MyVersion\obj\Debug\net7.0\ref\StudentGrading.dll
